@@ -1,0 +1,5 @@
+/Users/thomaswhoward/Projects/Algorithms/Algorithms/bin/Debug/Algorithms.exe
+/Users/thomaswhoward/Projects/Algorithms/Algorithms/bin/Debug/Algorithms.pdb
+/Users/thomaswhoward/Projects/Algorithms/Algorithms/obj/x86/Debug/Algorithms.csproj.CoreCompileInputs.cache
+/Users/thomaswhoward/Projects/Algorithms/Algorithms/obj/x86/Debug/Algorithms.exe
+/Users/thomaswhoward/Projects/Algorithms/Algorithms/obj/x86/Debug/Algorithms.pdb

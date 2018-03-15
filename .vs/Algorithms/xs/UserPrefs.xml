@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{53C0D7BB-49BC-4F51-909C-67BB83BC6D3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/WriteUtils.cs">
+    <Files>
+      <File FileName="Algorithms/Program.cs" Line="12" Column="38" />
+      <File FileName="Algorithms/QuickSort.cs" Line="16" Column="1" />
+      <File FileName="Algorithms/WriteUtils.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thomaswhoward/Projects/Algorithms/Algorithms/QuickSort.cs" relfile="Algorithms/QuickSort.cs" line="8" column="1" />
+      <Breakpoint file="/Users/thomaswhoward/Projects/Algorithms/Algorithms/QuickSort.cs" relfile="Algorithms/QuickSort.cs" line="25" column="1" />
+      <Breakpoint file="/Users/thomaswhoward/Projects/Algorithms/Algorithms/QuickSort.cs" relfile="Algorithms/QuickSort.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
